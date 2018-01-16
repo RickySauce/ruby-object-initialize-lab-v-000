@@ -1,5 +1,5 @@
 class Person
-  def initlialize(name)
+  def initialize(name)
     @name = name
   end
 
