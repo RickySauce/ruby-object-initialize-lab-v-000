@@ -14,5 +14,3 @@ class Person
 
 
 end
-
-beyonce - person.new("Beyonce")
